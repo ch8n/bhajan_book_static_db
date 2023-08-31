@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Shiva",
+    "sheet_name": "shiva",
+    "image_url": "1sMon4gFLF8AY2WgAh2uCn7VJQXaLP2_l"
+  },
+  {
+    "id": 2,
+    "name": "Sherawali",
+    "sheet_name": "sherawali",
+    "image_url": "1mPaqfSCqer769JwAKhQxszZ6NvkPnKtY"
+  },
+  {
+    "id": 3,
+    "name": "Durga",
+    "sheet_name": "durga",
+    "image_url": "1Qm2Bl9zaxbNRxK6zfg8_lTL6U5TbU2Ku"
+  },
+  {
+    "id": 4,
+    "name": "Lakshmi",
+    "sheet_name": "lakshmi",
+    "image_url": "19le5ZC5rHWuw35g6FIiOmAR7X2UPH8Cc"
+  },
+  {
+    "id": 5,
+    "name": "Ganesha",
+    "sheet_name": "ganesha",
+    "image_url": "1HNQMuwtbWmzomkRtGRCNX0Jo8IxZy4ox"
+  },
+  {
+    "id": 6,
+    "name": "Hanuman",
+    "sheet_name": "hanuman",
+    "image_url": "1aMXUK7dYWQVhlE5VihQwlOgtXc_oF5nM"
+  },
+  {
+    "id": 7,
+    "name": "Krishna",
+    "sheet_name": "krishna",
+    "image_url": "17Zv28s24-_ohRcl1BLkiYP3rpfvNEzm7"
+  },
+  {
+    "id": 8,
+    "name": "Shanidev",
+    "sheet_name": "shanidev",
+    "image_url": "1TfN3Gt6_WtbbqEM4ybRPWiC-Lf81kPMv"
+  }
+]
