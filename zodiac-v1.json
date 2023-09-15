@@ -3,72 +3,84 @@
     "id": 1,
     "name": "Aries",
     "sheet_name": "aries",
-    "image_url": "1sMon4gFLF8AY2WgAh2uCn7VJQXaLP2_aries"
+    "image_url": "1sMon4gFLF8AY2WgAh2uCn7VJQXaLP2_aries",
+    "date_group" : "Mar-21 to Apr-20"
   },
   {
     "id": 2,
     "name": "Tauras",
     "sheet_name": "tauras",
-    "image_url": "1sMon4gFLF8AY2WgAh2uCn7VJQXaLP2_tauras"
+    "image_url": "1sMon4gFLF8AY2WgAh2uCn7VJQXaLP2_tauras",
+    "date_group" : "Apr-21 to May-21"
   },
   {
     "id": 3,
     "name": "Gemini",
     "sheet_name": "gemini",
-    "image_url": "1sMon4gFLF8AY2WgAh2uCn7VJQXaLP2_gemini"
+    "image_url": "1sMon4gFLF8AY2WgAh2uCn7VJQXaLP2_gemini",
+    "date_group" : "May-22 to Jun-21"
   },
   {
     "id": 4,
     "name": "Cancer",
     "sheet_name": "cancer",
-    "image_url": "1sMon4gFLF8AY2WgAh2uCn7VJQXaLP2_cancer"
+    "image_url": "1sMon4gFLF8AY2WgAh2uCn7VJQXaLP2_cancer",
+    "date_group" : "Jun-22 to Jul-22"
   },
   {
     "id": 5,
     "name": "Leo",
     "sheet_name": "leo",
-    "image_url": "1sMon4gFLF8AY2WgAh2uCn7VJQXaLP2_leo"
+    "image_url": "1sMon4gFLF8AY2WgAh2uCn7VJQXaLP2_leo",
+    "date_group" : "Jul-23 to Aug-23"
   },
   {
     "id": 6,
     "name": "Virgo",
     "sheet_name": "virgo",
-    "image_url": "1sMon4gFLF8AY2WgAh2uCn7VJQXaLP2_virgo"
+    "image_url": "1sMon4gFLF8AY2WgAh2uCn7VJQXaLP2_virgo",
+    "date_group" : "Aug-24 to Sep-22"
   },
   {
     "id": 7,
     "name": "Libra",
     "sheet_name": "libra",
-    "image_url": "1sMon4gFLF8AY2WgAh2uCn7VJQXaLP2_Libra"
+    "image_url": "1sMon4gFLF8AY2WgAh2uCn7VJQXaLP2_Libra",
+    "date_group" : "Sep-23 to Oct-23"
   },
   {
     "id": 8,
     "name": "Scorpio",
     "sheet_name": "scorpio",
-    "image_url": "1sMon4gFLF8AY2WgAh2uCn7VJQXaLP2_scorpio"
+    "image_url": "1sMon4gFLF8AY2WgAh2uCn7VJQXaLP2_scorpio",
+    "date_group" : "Oct-24 to Nov-22"
   },
   {
     "id": 9,
     "name": "Sagittarius",
     "sheet_name": "sagittarius",
-    "image_url": "1sMon4gFLF8AY2WgAh2uCn7VJQXaLP2_sagittarius"
+    "image_url": "1sMon4gFLF8AY2WgAh2uCn7VJQXaLP2_sagittarius",
+    "date_group" : "Nov-23 to Dec-21"
   },
   {
     "id": 10,
     "name": "Capricorn",
     "sheet_name": "capricorn",
-    "image_url": "1sMon4gFLF8AY2WgAh2uCn7VJQXaLP2_capricorn"
+    "image_url": "1sMon4gFLF8AY2WgAh2uCn7VJQXaLP2_capricorn",
+    "date_group" : "Dec-22 to Jan-20"
   },
   {
     "id": 11,
     "name": "Aquarius",
     "sheet_name": "aquarius",
-    "image_url": "1sMon4gFLF8AY2WgAh2uCn7VJQXaLP2_aquarius"
+    "image_url": "1sMon4gFLF8AY2WgAh2uCn7VJQXaLP2_aquarius",
+    "date_group" : "Jan-21 to Feb-18"
   },
   {
     "id": 11,
     "name": "Pisces",
     "sheet_name": "pisces",
-    "image_url": "1sMon4gFLF8AY2WgAh2uCn7VJQXaLP2_pisces"
+    "image_url": "1sMon4gFLF8AY2WgAh2uCn7VJQXaLP2_pisces",
+    "date_group" : "Feb-19 to Mar-20"
   }
 ]
